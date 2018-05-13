@@ -1,0 +1,5 @@
+All of sprites used in this project are in these :
+	- www.spriters-resource.com/
+	- opengameart.org
+
+This project is not for publish, commercial, but for my practice.
