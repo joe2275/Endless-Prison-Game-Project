@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerManagerScript : MonoBehaviour {
     private static PlayerManagerScript playerManager = null;
@@ -44,7 +45,7 @@ public class PlayerManagerScript : MonoBehaviour {
     {
         if(Input.GetKey(KeyCode.Escape))
         {
-            Application.Quit();
+            SceneManager.LoadScene("MenuScene");
         }
     }
 
