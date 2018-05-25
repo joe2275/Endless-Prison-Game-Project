@@ -2,4 +2,10 @@ All of sprites used in this project are in these :
 	- www.spriters-resource.com/
 	- opengameart.org
 
+The copyright of the background music of playing scene is possessed by NamInYa.
+- http://bgmstore.net/view/wFIJ2
+
+The background music of menu scene is this :
+- Stockhausen - Studie 1
+
 This project is not for publish, commercial, but for my practice.
